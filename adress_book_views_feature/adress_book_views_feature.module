@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the adress_book_views_feature feature.
- */
-
-include_once 'adress_book_views_feature.features.inc';
